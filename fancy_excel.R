@@ -1,11 +1,11 @@
 fancy_excel <- function(data , title="Title") {
 
-  # Workbook erstellen
+  # Excel-Workbook erstellen
   wb <- openxlsx::createWorkbook("workbook")
 
   datenbereich = 2
 
-  ## Add worksheet
+  ## Arbeitsblatt hinzufügen
   openxlsx::addWorksheet(wb,"data")
 
   #Titel hinzufügen
@@ -23,7 +23,7 @@ fancy_excel <- function(data , title="Title") {
 
   )
 
-  #speichere Workbook ab
+  # Excel-Workbook abspeichern
   openxlsx::saveWorkbook(wb,"example.xlsx")
 
 
