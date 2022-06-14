@@ -39,7 +39,7 @@ Das `usethis`-Package erleichtert den Entwicklungsprozess massgeblich (wird beim
 
 In einem ersten Schritt starten wir ein neues Projekt für unser Package.
 ```
-usethis::create_package("fancy_excel")
+usethis::create_package("fancyexcel")
 ```
 
 Aufgaben:
