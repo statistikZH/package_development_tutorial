@@ -19,11 +19,17 @@ Wir wollen gemeinsam ein Package entwickeln, welches es ermöglicht, Datensätze
 
 Folgende packages benötigen wir für  die Erstellung unseres Beispiel-Packages. Das `openxlsx`-package benötigen wir für die Beispiel-Funktion, die wir in unserem Package anbieten wollen. Devtools enthält Werkzeuge für die Package-Entwicklung.
 
+### Notwenidge Packages
+
 ```
+# Das Devtools-Package enthält Werkzeuge für die Package-Entwicklung
+install.packages("devtools")
+
+# Unser package dient der Excel-Erstellung - daher benötigen wir das openxlsx-package
 install.packages("openxslx")
 
-library("devtools")
 
+library("devtools")
 library("openxlsx")
 ```
 
