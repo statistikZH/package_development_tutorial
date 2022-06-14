@@ -19,7 +19,10 @@ Wir wollen gemeinsam ein Package entwickeln, welches es ermöglicht, Datensätze
 
 Ziel des Tutorials ist es, den Package-Entwicklungsprozess anhand einer einfachen [Beispiel-Funktion](https://github.com/statistikZH/package_development_tutorial/blob/master/fancy_excel.R) kennenzulernen. 
 
-Folgende packages benötigen wir für  die Erstellung unseres Beispiel-Packages. Das `openxlsx`-package benötigen wir für die Beispiel-Funktion, die wir in unserem Package anbieten wollen. Devtools enthält Werkzeuge für die Package-Entwicklung.
+Wir benötigen zwei Packages, um unser eigenes Package zu erstellen. 
+
+- `devtools` enthält Werkzeuge für die Package-Entwicklung.
+- Das `openxlsx`-package benötigen wir für unsere Excels-Erstellungs-Funktion, die wir in unserem Package anbieten wollen. 
 
 ### Notwendige Packages
 
