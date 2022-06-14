@@ -21,7 +21,7 @@ Ziel des Tutorials ist es, den Package-Entwicklungsprozess anhand einer einfache
 
 Folgende packages benötigen wir für  die Erstellung unseres Beispiel-Packages. Das `openxlsx`-package benötigen wir für die Beispiel-Funktion, die wir in unserem Package anbieten wollen. Devtools enthält Werkzeuge für die Package-Entwicklung.
 
-### Notwenidge Packages
+### Notwendige Packages
 
 ```
 # Das Devtools-Package enthält Werkzeuge für die Package-Entwicklung
