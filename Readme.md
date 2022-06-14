@@ -17,6 +17,8 @@ https://github.com/jennybc/pkg-dev-tutorial/blob/master/document-share.pdf
 
 Wir wollen gemeinsam ein Package entwickeln, welches es ermöglicht, Datensätze in Excel-Dateien mit minimaler Formatierung abzuspeichern. Im Zuge des Tutorials werden wir den Entwicklungsprozess gemeinsam durchgehen, die Struktur unseres packages inspizieren und die Dokumentation dazu generieren.
 
+Ziel des Tutorials ist es, den Package-Entwicklungsprozess anhand einer einfachen Beispiel-Funktion kennenzulernen. 
+
 Folgende packages benötigen wir für  die Erstellung unseres Beispiel-Packages. Das `openxlsx`-package benötigen wir für die Beispiel-Funktion, die wir in unserem Package anbieten wollen. Devtools enthält Werkzeuge für die Package-Entwicklung.
 
 ### Notwenidge Packages
