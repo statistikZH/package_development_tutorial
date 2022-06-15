@@ -44,7 +44,7 @@ usethis::create_package("fancyexcel")
 
 Aufgaben:
 
-1. Überlegt euch ein kurzes Beispiel für die Verwendung unserer 'fancy_excel' Funktion mit einem Testdatensatz und fügt es unter @examples hinzu  [document & share Präsentation, Folie 5](https://github.com/jennybc/pkg-dev-tutorial/blob/master/document-share.pdf)
+1. Überlegt euch ein kurzes Beispiel für die Verwendung unserer 'fancyexcel' Funktion mit einem Testdatensatz und fügt es unter @examples hinzu  [document & share Präsentation, Folie 5](https://github.com/jennybc/pkg-dev-tutorial/blob/master/document-share.pdf)
 
 2. Tragt euch als Maintainer im Description-File ein.
 
