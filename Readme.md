@@ -4,7 +4,7 @@ Materialien für eine Einführung zum Thema Package-Entwicklung in R. Die Einfü
 
 https://github.com/jennybc/pkg-dev-tutorial
 
-## 1. Intro 
+## 1. Einführung
 
 Package-Workflow
 https://github.com/jennybc/pkg-dev-tutorial/blob/master/intro-basic-workflow.pdf
