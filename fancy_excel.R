@@ -1,4 +1,4 @@
-fancy_excel <- function(data , title="Title") {
+fancyexcel <- function(data , title="Title") {
 
   # Excel-Workbook erstellen
   wb <- openxlsx::createWorkbook("workbook")
@@ -28,6 +28,3 @@ fancy_excel <- function(data , title="Title") {
 
 
 }
-
-
-fancy_excel(head(mtcars))
